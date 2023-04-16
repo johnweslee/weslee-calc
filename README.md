@@ -1,0 +1,2 @@
+# weslee-calc
+simple calculator
